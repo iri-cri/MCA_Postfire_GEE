@@ -1,5 +1,5 @@
 # MCA_Postfire_GEE
-This repository contains a Multi-Criteria Analysis (MCA) implementation for assessing post-fire environmental impacts using Google Earth Engine (GEE). The script performs soil erosion risk assessment and vegetation vulnerability analysis using geospatial datasets.
+This repository contains a Multi-Criteria Analysis (MCA) implementation for assessing post-fire environmental impacts using Google Earth Engine (GEE). The script performs soil erosion risk assessment and vegetation vulnerability analysis using geospatial datasets within the geographic scope of the province of Avila in Central Spain, and particularly in two burned areas: Paramera and Santa Cruz.
 ## Key Features:
 1. Fire Severity Index (dNBR) Calculation 
 2. Bare Soil Index (BSI) Calculation 
